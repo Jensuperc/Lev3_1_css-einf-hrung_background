@@ -1,0 +1,6 @@
+body main section img {
+    object-fit: cover;
+    width: 200vh;
+    height: 100vh;
+
+}
